@@ -1,2 +1,2 @@
 # nvim
-I just snatch and steal other people's stuff and claim it mine
+Oh and yes I know I should use lazy.nvim for packages but I am too lazy to switch to lazy.nvim
