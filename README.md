@@ -1,2 +1,3 @@
 # nvim
-Oh and yes I know I should use lazy.nvim for packages but I am too lazy to switch to lazy.nvim
+
+Recently migrated from Packer to lazy.nvim as Packer is already deprecated I believe

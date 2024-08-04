@@ -1,13 +1,11 @@
 -- general
 require("base.core.options")
 require("base.core.keymaps")
-require("base.core.colorscheme")
 
 -- Lazy.nvim plugins
--- require("base.lazy")
+require("base.lazy")
 
 -- Packer plugins
-require("base.plugins-setup")
 require("base.plugins.comment")
 require("base.plugins.nvim-tree")
 require("base.plugins.lualine")
@@ -20,3 +18,4 @@ require("base.plugins.lsp.null-ls")
 require("base.plugins.autopairs")
 require("base.plugins.treesitter")
 require("base.plugins.gitsigns")
+require("base.plugins.catppuccin")
