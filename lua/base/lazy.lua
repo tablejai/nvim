@@ -25,6 +25,9 @@ if not status then
 end
 
 lazy.setup({
+	change_detection = {
+		notify = false,
+	},
 	spec = {
 		{ "catppuccin/nvim", priority = 1000 },
 
