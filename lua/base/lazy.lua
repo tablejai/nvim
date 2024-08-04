@@ -26,7 +26,7 @@ end
 
 lazy.setup({
 	spec = {
-		{ "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+		{ "catppuccin/nvim", priority = 1000 },
 
 		{ "nvim-lua/plenary.nvim" }, -- lua functions that many plugins use
 

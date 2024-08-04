@@ -3,6 +3,6 @@ if not catppuccin_setup then
 	return
 end
 
-catppuccin.setup({ flavour = "frappe" })
+catppuccin.setup({ flavour = "mocha" })
 
 vim.cmd.colorscheme("catppuccin")
