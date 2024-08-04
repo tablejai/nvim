@@ -4,7 +4,7 @@ require("base.core.keymaps")
 require("base.core.colorscheme")
 
 -- Lazy.nvim plugins
--- require("base.lazy")
+require("base.lazy")
 
 -- Packer plugins
 require("base.plugins-setup")
