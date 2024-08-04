@@ -11,7 +11,6 @@ keymap.set("n", "x", '"_x')
 -- Hides search highlight
 keymap.set("n", "<leader>nh", ":nohl<CR>")
 keymap.set("n", "<leader>w", ":w<CR>")
-keymap.set("n", "<leader>w", ":w<CR>")
 
 -- Increments and decrements of numbers
 keymap.set("n", "<leader>+", "<C-a>")
